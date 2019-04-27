@@ -1,0 +1,5 @@
+/_build/
+/cover/
+/deps/
+/assets/node_modules/
+Dockerfile
